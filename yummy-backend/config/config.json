@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": "qwe123",
+    "database": "database_development",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "app",
+    "password": "sdf3#J#k66PgdF9OKsdME88FOI3JNf",
+    "database": "database_test",
+    "host": "34.243.186.133",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "app",
+    "password": "sdf3#J#k66PgdF9OKsdME88FOI3JNf",
+    "database": "database_production",
+    "host": "34.243.186.133",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}

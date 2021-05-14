@@ -1,0 +1,21 @@
+html,
+body,
+#root,
+#app,
+#page {
+    height: 100%;
+}
+
+a {
+    cursor: pointer;
+}
+
+#app {
+    display: flex;
+    flex-flow: column;
+}
+
+#container {
+    display: flex;
+    flex-grow: 1;
+}
